@@ -1,0 +1,7 @@
+/Users/CristianLucero1/Desktop/Shapes.Solution/Shapes/bin/Debug/netcoreapp1.1/Shapes.deps.json
+/Users/CristianLucero1/Desktop/Shapes.Solution/Shapes/bin/Debug/netcoreapp1.1/Shapes.dll
+/Users/CristianLucero1/Desktop/Shapes.Solution/Shapes/bin/Debug/netcoreapp1.1/Shapes.pdb
+/Users/CristianLucero1/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp1.1/Shapes.csproj.CoreCompileInputs.cache
+/Users/CristianLucero1/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp1.1/Shapes.AssemblyInfo.cs
+/Users/CristianLucero1/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp1.1/Shapes.dll
+/Users/CristianLucero1/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp1.1/Shapes.pdb
